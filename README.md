@@ -68,7 +68,7 @@ Interfaces/contracts are just a high level sketch of the components, without the
 The skeleton files are already in the repository. These skeleton files are an example of what your team would produce during the design step. Review these files now.
 
 - `entity/task.py` — `Task` data class
-- `dto/add_task_request.py`, `dto/complete_task_request.py`, `dto/delete_task_request.py` — request models
+- `dto/add_task_request.py`, `dto/task_operation_request.py` — request models
 - `dto/add_task_response.py`, `dto/task_operation_response.py`, `dto/list_tasks_response.py` — response models
 - `interfaces/task_repository.py` — `TaskRepository` Protocol
 - `persistence/in_memory_task_repository.py` — `InMemoryTaskRepository`

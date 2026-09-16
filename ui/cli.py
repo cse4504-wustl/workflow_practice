@@ -1,6 +1,5 @@
 from dto.add_task_request import AddTaskRequest
-from dto.complete_task_request import CompleteTaskRequest
-from dto.delete_task_request import DeleteTaskRequest
+from dto.task_operation_request import TaskOperationRequest
 from persistence.in_memory_task_repository import InMemoryTaskRepository
 from use_cases.add_task import AddTaskUseCase
 from use_cases.complete_task import CompleteTaskUseCase
