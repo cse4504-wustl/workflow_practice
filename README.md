@@ -13,7 +13,8 @@ python cli.py save 'my_tasks.csv'
 ```
 
 In this exercise, you will work through the typical steps that you will need to design and implement a specific feature of your semester project.
-Typically, designing all features of your software project will be your job. However, to speed up the process for this exercise, we are providing you with the design.
+
+Typically, your team will be responsible for the design, implementation, and testing of your software features. However, to speed up the process for this studio, the design will be provided for you.
 
 The four main components of this tool are:
 1. Task - main datastructure used by this tool
