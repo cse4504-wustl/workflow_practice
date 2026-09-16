@@ -142,6 +142,8 @@ If main.py doesn't work quite right, together figure out why and fix the problem
 When you get cli.py to work in feature_1 branch, have one person from your team create a pull request with feature_1 as the source and main as the destination. This process will be very similar to the process described in step 6.
 
 ## Connecting the Dots
+Create a new branch to complete this final step. Add your answers into that branch, create a pull request, review it, and merge to main.
+
 Your team just completed steps 0 through 11. Map those steps into the elements of our workflow, documented in this [GitHub Workflow Diagram](https://github.com/cse4504-wustl/workflow). Fill in the blanks below
 * In class design in a feature branch: Steps ______
 * Implement your part in YOUR branch made from feature branch: Steps ______
