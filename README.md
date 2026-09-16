@@ -1,5 +1,5 @@
-# Workflow Practice
-The purpose of this exercise is to practice the workflow we will be using in class. Please follow the instructions closely.
+# Workflow Practice Studio
+The purpose of this studio is to practice the workflow we will be using in class. Please follow the instructions closely.
 
 In this exercise, you will build a basic command-line task manager where users can add, list, mark as complete, and delete tasks. Below is an example of how this tool would be used:
 
